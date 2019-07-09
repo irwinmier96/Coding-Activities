@@ -1,1 +1,1 @@
-# Assignments
+# Coding Activities 
